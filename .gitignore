@@ -1,35 +1,35 @@
-# Terraform provider plugins
+# Terraform directories
 .terraform/
+**/.terraform/
 
-# Terraform state files
-terraform.tfstate
-terraform.tfstate.backup
+# Terraform state
+*.tfstate
 *.tfstate.*
 
-# Terraform variables (may contain secrets)
+# Terraform crash logs
+crash.log
+
+# Terraform variables
 *.tfvars
 *.tfvars.json
 
-# Crash logs
-crash.log
-
-# Override files
+# Terraform overrides
 override.tf
 override.tf.json
 *_override.tf
 *_override.tf.json
 
-# Terraform CLI configuration
+# Terraform CLI
 .terraformrc
 terraform.rc
 
-# Operating System files
+# OS files
 .DS_Store
 Thumbs.db
 
-# VS Code settings (optional)
+# VS Code
 .vscode/
 
-# Sensitive environment files
+# Environment files
 .env
 .env.*
