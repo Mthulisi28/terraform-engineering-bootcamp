@@ -1,9 +1,0 @@
-Terraform Student
-
-Name: Mthulisi Zulu
-
-Academy:
-MZ-UCA Cloud Academy
-
-Role:
-Cloud Engineer
