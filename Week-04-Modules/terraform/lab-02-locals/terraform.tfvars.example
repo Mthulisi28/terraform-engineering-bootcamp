@@ -1,0 +1,3 @@
+project_name = "mz-uca"
+environment  = "development"
+owner        = "MZ-UCA"
