@@ -23,3 +23,5 @@ crash.log
 # Environment files
 .env
 .env.*
+# Week 04 Capstone generated artifacts
+Week-04-Modules/terraform/capstone/*-mz-uca.txt
